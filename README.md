@@ -27,4 +27,13 @@ git merge testing
 
 git push
 
+// If i want add this new branch to remote repository.
+
+git push --set-upstream origin testing
+
+Then the remote repository will own a new branch named "testing"
+
+
+
+
 // first change made in 2018.6.9 00:02:00
