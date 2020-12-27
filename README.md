@@ -13,4 +13,8 @@ This step commit files changed to local repository,so we still need to push them
 
 git push
 
+
+// Then I add a new branch "testing"
+
+
 // first change made in 2018.6.9 00:02:00
